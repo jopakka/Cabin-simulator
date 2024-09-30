@@ -7,7 +7,7 @@ public class CameraManager : MonoBehaviour
 {
     [SerializeField] private GameObject _target;
     [SerializeField] private Vector3 _offset;
-
+    
     // Start is called before the first frame update
     void Start()
     {
